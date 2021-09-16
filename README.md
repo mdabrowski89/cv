@@ -3,8 +3,9 @@
 
 1. [Contact](#contact)
 1. [Experience](#experience)
-1. [Education](Education)
-1. [Languages](Languages)
+1. [Skils](#skils)
+1. [Education](#education)
+1. [Languages](#languages)
 
 ## Contact
 
@@ -83,6 +84,18 @@
 - working as a member of IT department
 - developing internal desktop app for managing advertisement
 
+## Skils
+- good knowledge of Kotlin, Java, Android SDK and app architecture design patterns
+- basic knowledge of Kotlin Multiplatform Mobile
+
+I am familiar with:
+- Android Studio, Gradle, project modularisation, Material Design, UX design patterns
+- MVP, MVVM, MVI, Architecture Components, Jetpack Components, Google Maps,
+Navigation, Android threading and background task handling, Android app seciurity, data
+persistence, networking, Unit Testing
+- RxAndroid, Dagger, Koin, Kotlin Coroutines, Constraint Layout, Retrofit, Firebase
+- Git, GitFlow, Jira, Github Actions, CircleCI, Mockoon, Google Play Developer Console
+
 ## Education
 
 ### Bachelor of Computer Science
@@ -90,5 +103,5 @@
 Warsaw University of Technology  
 *2008 - 2013*
 
-## Lanugages
+## Languages
 - English - good spoken and written
