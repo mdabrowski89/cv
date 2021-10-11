@@ -3,9 +3,10 @@
 
 1. [Contact](#contact)
 1. [Experience](#experience)
-1. [Skils](#skils)
-1. [Education](#education)
+1. [Tech Stack](#tech-stack)
+1. [Co-created apps](#co-created-apps)
 1. [Languages](#languages)
+1. [Education](#education)
 
 ## Contact
 
@@ -84,17 +85,43 @@
 - working as a member of IT department
 - developing internal desktop app for managing advertisement
 
-## Skils
-- good knowledge of Kotlin, Java, Android SDK and app architecture design patterns
-- basic knowledge of Kotlin Multiplatform Mobile
+## Tech Stack
+- Kotlin, Java
+- Android SDK, Kotlin Multiplatform Mobile
+- Gradle
+- Git, GitFlow
+- Github Actions, CircleCI
 
-I am familiar with:
-- Android Studio, Gradle, project modularisation, Material Design, UX design patterns
-- MVP, MVVM, MVI, Architecture Components, Jetpack Components, Google Maps,
-Navigation, Android threading and background task handling, Android app seciurity, data
-persistence, networking, Unit Testing
-- RxAndroid, Dagger, Koin, Kotlin Coroutines, Constraint Layout, Retrofit, Firebase
-- Git, GitFlow, Jira, Github Actions, CircleCI, Mockoon, Google Play Developer Console
+#### Android
+- MVI, MVVM, MVP
+- Koin, Dagger
+- Ktor, Retrofit
+- Kotlin Coroutines, RxJava
+- Material Design
+- Jetpack Navigation, Room, WorkManager, Hilt, Jetpack Compose
+- Unit testing, Mockito
+
+#### Other
+- Android Studio, Xcode, IntelliJ IDEA
+- Jira, Trello
+- Google Play Developer Console, Firebase
+- Postman, Mockoon
+
+## Co-created apps
+- [Mudita Launcher](https://play.google.com/store/apps/details?id=com.mudita.launcher&gl=PL)
+- [Vooom](https://play.google.com/store/apps/details?id=pl.vooom)
+- [Travel assistant](https://play.google.com/store/apps/details?id=se.klt.travelassistant&hl=pl&gl=US)
+- [Pie VAT - Tax Free Shopping](https://play.google.com/store/apps/details?id=io.piesystems.pie&hl=pl&gl=US)
+- [MEDizzy - Medical Community](https://play.google.com/store/apps/details?id=com.medizzy.android&gl=PL)
+- [Przypomnienia o lekach](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy&gl=PL)
+- [NORD.investments](https://play.google.com/store/apps/details?id=investments.nord)
+- [ONEOF Accuracy](https://play.google.com/store/apps/details?id=com.appnroll.accuracy)
+- [UFG Na wypadek](https://play.google.com/store/apps/details?id=pl.ascen.nawypadek.android)
+- [UFG Kup Auto](https://play.google.com/store/apps/details?id=pl.ascen.kupauto.android)
+- ...
+
+## Languages
+- English - good spoken and written
 
 ## Education
 
@@ -102,6 +129,3 @@ persistence, networking, Unit Testing
 
 Warsaw University of Technology  
 *2008 - 2013*
-
-## Languages
-- English - good spoken and written
