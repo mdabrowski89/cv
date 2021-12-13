@@ -1,5 +1,5 @@
 
-# Curriculum vitae
+# Mariusz Dąbrowski - CV
 
 1. [Contact](#contact)
 1. [Experience](#experience)
