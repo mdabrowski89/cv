@@ -14,6 +14,15 @@
 
 ## Experience
 
+### Senior Android Developer
+[Pie Systems](https://www.pievat.com/)  
+*01.2022 - now*
+- design and implementation of architecture in project
+- feasibility research of business requirements
+- discussing, documenting and implementing new features
+- code and documentation review
+- CI setup and maintenance
+
 ### Head of Mobile
 [Mudita](https://mudita.com/)  
 *6 months, 12.2020 - 05.2021*
@@ -108,10 +117,10 @@
 - Postman, Mockoon
 
 ## Co-created apps
+- [Pie VAT - Tax Free Shopping](https://play.google.com/store/apps/details?id=io.piesystems.pie&hl=pl&gl=US)
 - [Mudita Launcher](https://play.google.com/store/apps/details?id=com.mudita.launcher&gl=PL)
 - [Vooom](https://play.google.com/store/apps/details?id=pl.vooom)
 - [Travel assistant](https://play.google.com/store/apps/details?id=se.klt.travelassistant&hl=pl&gl=US)
-- [Pie VAT - Tax Free Shopping](https://play.google.com/store/apps/details?id=io.piesystems.pie&hl=pl&gl=US)
 - [MEDizzy - Medical Community](https://play.google.com/store/apps/details?id=com.medizzy.android&gl=PL)
 - [Przypomnienia o lekach](https://play.google.com/store/apps/details?id=eu.smartpatient.mytherapy&gl=PL)
 - [NORD.investments](https://play.google.com/store/apps/details?id=investments.nord)
