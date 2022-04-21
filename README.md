@@ -14,7 +14,7 @@
 
 ## Experience
 
-### Senior Android Developer
+#### Senior Android Developer
 [Pie Systems](https://www.pievat.com/)  
 *01.2022 - now*
 - design and implementation of architecture in project
@@ -23,7 +23,7 @@
 - code and documentation review
 - CI setup and maintenance
 
-### Head of Mobile
+#### Head of Mobile
 [Mudita](https://mudita.com/)  
 *6 months, 12.2020 - 05.2021*
 - leading and management of a team up to 7 Mobile developers (Android & iOS)
@@ -37,7 +37,7 @@
 - CI setup and maintenance
 - recruiting new developers
 
-### Android Team Lead
+#### Android Team Lead
 [Vooom](https://vooom.pl/)  
 *1 year, 11.2019 - 11.2020*
 - leading, management and work organization for a team up to 4 Android developers in MaaS (Mobility as a Service) project
@@ -50,7 +50,7 @@
 - CI setup and maintenance
 - recruiting new developers
 
-### Senior Android Developer
+#### Senior Android Developer
 [FARA Polska](http://fara.no/en/)  
 *7 months, 04.2019 – 11.2019*
 - working as a member of medium sized Scrum team on a project for a Scandinavian public transport
@@ -59,7 +59,7 @@
 - providing estimates
 - review other team members work
 
-### Android Developer
+#### Android Developer
 [App'n'roll](https://appnroll.com/)  
 *3 years 7 months, 05.2016 – 11.2019*
 - working independently or as a member of small team on projects for the following markets: finance, smart home, social media, education, medicine, watchmaking, shopping etc.
@@ -71,7 +71,7 @@
 - recruiting new developers
 - participation in React Native project and in AOSP based project
 
-### Android Engineer
+#### Android Engineer
 [Mobica](https://mobica.com/)  
 *1 year 4 months, 01.2015 – 04.2016*
 - working as a member of small team on telecom project for USA client
@@ -80,7 +80,7 @@
 - feasibility research of project requirements
 - preparing live demo presentations
 
-### Programmer
+#### Programmer
 [Ascen](https://ascen.pl/)  
 *1 year 5 months, 08.2013 - 12.2014*
 - working as a member of small team on mobile, backend and web apps for the following markets: insurance, smart home, accountancy
@@ -88,7 +88,7 @@
 - designing databases and creating of systems specifications
 - review other team members work
 
-### C++ Programmer
+#### C++ Programmer
 [Eniro Polska](https://www.enirogroup.com/)  
 *2 years 1 month, 07.2011 - 07.2013*
 - working as a member of IT department
@@ -134,7 +134,7 @@
 
 ## Education
 
-### Bachelor of Computer Science
+#### Bachelor of Computer Science
 
 Warsaw University of Technology  
 *2008 - 2013*
