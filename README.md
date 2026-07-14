@@ -99,16 +99,16 @@
 - Android SDK, Kotlin Multiplatform Mobile
 - Gradle
 - Git, GitFlow
-- Github Actions, CircleCI
+- CircleCI, Github Actions
 
 #### Android
 - MVI, MVVM, MVP
 - Koin, Dagger
-- Ktor, Retrofit
+- Retrofit, Ktor
 - Kotlin Coroutines, RxJava
-- Material Design
-- Jetpack Navigation, Room, WorkManager, Hilt, Jetpack Compose
-- Unit testing, Mockito
+- Jetpack Compose, Material Design
+- Room, WorkManager, Hilt
+- Unit testing, Android testing, MockK
 
 #### Other
 - Android Studio, Xcode, IntelliJ IDEA
